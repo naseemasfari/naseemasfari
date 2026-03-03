@@ -1,7 +1,5 @@
 <p align="center">
-   <img
-   src=GitHub-BreatheAnimation.gif"
-   width="400" />
+  <img src="./GitHub-BreatheAnimation.gif" alt="Naseem Asfari" width="400">
 </p>
 
 <!--
