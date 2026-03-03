@@ -1,6 +1,6 @@
 <p align="center">
    <img
-   srce=GitHub-BreateAnimation.gif"
+   src=GitHub-BreatheAnimation.gif"
    width="400" />
 </p>
 
