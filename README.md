@@ -1,4 +1,8 @@
-![](GitHub-BreatheAnimation.gif)
+<p align="center">
+   <img
+   srce=GitHub-BreateAnimation.gif"
+   width="400" />
+</p>
 
 <!--
 **naseemasfari/naseemasfari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
